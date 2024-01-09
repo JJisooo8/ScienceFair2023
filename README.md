@@ -1,5 +1,7 @@
 The Data Metropolis: Navigating Urban Growth Through Machine Learning
+
 Jonas Wei
+
 West Forsyth High School, Cumming, Georgia
 
 “The Data Metropolis,” is a science fair project that aspires to better the understanding of this question: How do different factors drive the dynamics of the urban ecosystem? Inspired by Atlanta, the AP Human Geography poster-child of urban sprawl, the project aims to provide valuable insights surrounding geodata, population, and finance to make informed decisions about sustainable city development for the improvement of many businesses, companies, and communities. Through the utilization of regressive machine learning, innovative visualizations, and comprehensive statistical analysis, this research aims to better the societal understanding of the metropolitan landscape.
